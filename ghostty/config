@@ -1,0 +1,21 @@
+theme = Rose Pine
+background = #000000
+background-opacity = 0.7
+background-blur-radius = 20
+
+font-family = MesloLGS Nerd Font 
+font-size = 16
+cursor-style = block
+cursor-style-blink = false
+shell-integration-features = false
+
+macos-titlebar-style = hidden
+
+confirm-close-surface = false
+window-decoration = true
+window-padding-x = 10
+window-padding-y = 10
+window-padding-balance = true
+
+window-width = 140
+window-height = 44

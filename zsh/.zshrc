@@ -11,6 +11,7 @@ plugins=(
 source $ZSH/oh-my-zsh.sh
 
 export STARSHIP_CONFIG="$HOME/.config/starship/starship.toml"
+export GHOSTTY_CONFIG="$HOME/.config/ghostty/config"
 
 # Starship prompt
 eval "$(starship init zsh)"
