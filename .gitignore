@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# zsh
+zsh/.zsh_history
+zsh/.zcompdump*
+
+# tmux plugins
+tmux/plugins/
+
+# zed generated files
+zed/prompts/
+zed/themes/
+
+# cache
+.cache/
