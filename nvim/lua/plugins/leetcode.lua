@@ -6,5 +6,8 @@ return {
   },
   opts = {
     lang = "cpp",
+    storage = {
+      home = "~/Desktop/DSA/leetcode/",
+    },
   },
 }
